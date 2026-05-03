@@ -1,0 +1,1 @@
+docker compose -p app-prod --env-file .env.prod -f compose.yaml -f compose.prod.yaml up --build -d

@@ -1,0 +1,6 @@
+.env.*
+.env
+*.ps1
+compose*.yaml
+nginx.conf
+50x.html

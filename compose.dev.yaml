@@ -1,0 +1,4 @@
+services:
+  app1:
+    environment:
+      MESSAGE: "DEV OVERRIDE: Hello from python dev 1"

@@ -1,0 +1,1 @@
+docker compose -p app-dev --env-file .env.dev -f compose.yaml -f compose.dev.yaml up --build -d
